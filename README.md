@@ -1,4 +1,4 @@
-# Podinfo
+# Podinfo - testing signed commits
 
 Podinfo is a tiny web application made with Go
 that showcases best practices of running microservices in Kubernetes.
